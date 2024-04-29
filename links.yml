@@ -145,10 +145,14 @@ categories:
         display_url: https://www.v2ex.com/
         description: 
         #tags: 开发者,设计师
+      - title: Baiyu
+        logo: https://pbs.twimg.com/profile_images/1697590675779555328/yP0qEzob_400x400.jpg
+        url: https://twitter.com/baiyu2140
+        description: SeeDAO创始人之一，CKB生态负责人
       - title: Tang Han
         logo: https://pbs.twimg.com/profile_images/1697442174819053568/nsQKSVOW_400x400.jpg
         url: https://twitter.com/Diana19959295
-        description: SeeDAO创始人
+        description: SeeDAO创始人之一
         #tags: RSS,Atom,聚合新闻,内容订阅
       - title: DaPangDun
         logo: https://pbs.twimg.com/profile_images/1662358869442711552/e-JculZC_400x400.jpg
