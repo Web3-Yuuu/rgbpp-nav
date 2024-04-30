@@ -115,7 +115,7 @@ categories:
         description: 你寄吧谁啊
         #tags: Meme,DEX
       - title: RGBCat
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: https://www.rgbcat.io/images/logo.png
         url: https://linktr.ee/RGBCat
         description: 结合Meme与Defi的项目，用Meme概念建立社区
        # tags: Meme
