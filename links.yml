@@ -100,7 +100,7 @@ categories:
   - category: 社交/DID
     icon: linecons-star
     links:
-      - title: .Bit
+      - title: .bit
         logo: https://dotbit.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fdfa6c58f-e2a0-44d4-bdd0-0425ab8b04a9%2F9071b35b-fa07-4db1-bf65-98dd44d06568%2Fd.id_logo-icon.png?table=block&id=bf81047b-19b7-4666-947c-ec7b71f870d7&spaceId=dfa6c58f-e2a0-44d4-bdd0-0425ab8b04a9&width=2000&userId=&cache=v2
         url: https://d.id/
         description: 去中心化身份协议
