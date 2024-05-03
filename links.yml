@@ -158,6 +158,36 @@ categories:
         url: https://cointool.app/chain-tools/ckb
         description: Nervos链上批量工具，批量生成钱包、批量查余额、批量转账等
 
+  - category: RGB++新人学习资料
+    icon: linecons-star
+    links:
+      - title: RGB++中文白皮书
+        logo: https://pbs.twimg.com/media/GLh05LcagAAN0H6?format=png&name=small
+        url: https://talk.nervos.org/t/rgb-protocol-light-paper/7733
+        description: RGB++的中文白皮书，最基础的资料
+      - title: RGB++安全性分析
+        logo: https://pbs.twimg.com/media/GLh05LcagAAN0H6?format=png&name=small
+        url: https://talk.nervos.org/t/rgb-1/7798
+        description: RGB++的安全性分析，包括主网、L2和主网与L2Jump操作的安全性
+      - title: RGB++协议与社区FAQ（DaPangDun编写）
+        logo: https://pbs.twimg.com/media/GLh05LcagAAN0H6?format=png&name=small
+        url: https://twitter.com/DaPangDunCrypto/status/1780167512057070063
+        description: RGB++的的常见问题解答
+       - title: JoyID钱包教程
+        logo: https://pbs.twimg.com/profile_images/1764859630956773376/vGZfkmQb_400x400.png
+        url: https://jackylhh.notion.site/JoyID-65e7bbda1e6f4b26a0a673533b916443
+        description: 创建、使用、升级JoyID钱包的官方教程
+      - title: JoyID钱包多开教程（花椒说制作）
+        logo: https://pbs.twimg.com/profile_images/1764859630956773376/vGZfkmQb_400x400.png
+        url: https://www.youtube.com/watch?v=L8KCIFZaZpQ
+        description: 多开JoyID钱包的视频教程
+      - title: 什么是数码物DOB以及Spore协议
+        logo: https://pbs.twimg.com/profile_images/1737953853474246656/fqpfLqKk_400x400.png
+        url: https://www.binance.com/zh-CN/square/post/5620479464178
+        description: 对数码物DOB概念的介绍，以及发行DOB的Spore协议的讲解
+
+        
+  
   - category: 了解RGB++精选KOL
     icon: linecons-star
     links:
