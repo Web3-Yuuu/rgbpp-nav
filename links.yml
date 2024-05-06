@@ -118,6 +118,14 @@ categories:
         url: https://d.id/
         description: 去中心化身份协议
         #tags: Meme,DE
+  
+  - category: 游戏/元宇宙
+    icon: linecons-star
+    links:
+      - title: World3
+        logo: https://pbs.twimg.com/profile_images/1765790854692618240/PStKOIZ2_400x400.jpg
+        url: https://matrixworld.org/home
+        description: 基于 RGB++ 协议和 DOB 协议的比特币自主世界，以比特币主网为数码物的资产控制层，以 CKB 为数码物的 DA 层和智能合约层，打通比特币和其余生态链。
        
   - category: Memes
     icon: linecons-star
