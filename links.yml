@@ -123,13 +123,17 @@ categories:
         description: 去中心化身份协议
         #tags: Meme,DE
   
-  - category: 游戏/元宇宙
+  - category: 游戏/娱乐
     icon: linecons-star
     links:
       - title: World3
         logo: https://pbs.twimg.com/profile_images/1765790854692618240/PStKOIZ2_400x400.jpg
         url: https://matrixworld.org/home
-        description: 基于 RGB++ 协议和 DOB 协议的比特币自主世界，以比特币主网为数码物的资产控制层，以 CKB 为数码物的 DA 层和智能合约层，打通比特币和其余生态链。
+        description: 基于 RGB++ 协议和 DOB 协议的比特币自主世界，以比特币主网为数码物的资产控制层，以 CKB 为数码物的 DA 层和智能合约层，打通比特币和其余生态链
+      - title: SilentBerry
+        logo: https://pbs.twimg.com/profile_images/1780505080078409728/Lmwhx_z4_400x400.jpg
+        url: https://linktr.ee/SilentBerry
+        description: 基于RGB++的数字音乐发行平台
        
   - category: Memes
     icon: linecons-star
@@ -169,6 +173,10 @@ categories:
         logo: https://cdn.jsdelivr.net/gh/CoinTool-App/cdn@main/pic/logo/logo.png 
         url: https://cointool.app/chain-tools/ckb
         description: Nervos链上批量工具，批量生成钱包、批量查余额、批量转账等
+      - title: Metaforo
+        logo: https://metaforo.io/img/logo@2.png
+        url: https://metaforo.io/
+        description: 去中心化治理协议，支持Nervos和RGB++资产的快照和投票治理
   
   - category: RGB++新人学习资料
     icon: linecons-star
