@@ -127,8 +127,8 @@ categories:
     icon: linecons-star
     links:
       - title: World3
-        logo: https://pbs.twimg.com/profile_images/1765790854692618240/PStKOIZ2_400x400.jpg
-        url: https://matrixworld.org/home
+        logo: https://world3.ai/_next/static/media/logo_new.58827e6c.svg
+        url: https://world3.ai/
         description: 基于 RGB++ 协议和 DOB 协议的比特币自主世界，以比特币主网为数码物的资产控制层，以 CKB 为数码物的 DA 层和智能合约层，打通比特币和其余生态链
       - title: SilentBerry
         logo: https://pbs.twimg.com/profile_images/1780505080078409728/Lmwhx_z4_400x400.jpg
