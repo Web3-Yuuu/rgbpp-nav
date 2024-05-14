@@ -94,7 +94,7 @@ categories:
     icon: linecons-star
     links:
       - title: Spore Protocol
-        logo: https://spore.pro/svg/dark-text-logo.svg
+        logo: https://twitter.com/sporeprotocol/photo
         url: https://spore.pro/
         description: DOBs的底层协议
       - title: Dobby Market
@@ -102,8 +102,8 @@ categories:
         url: https://app.dobby.market
         description: 比特币主网的DOBs交易市场
       - title: Unicorn
-        logo: https://pbs.twimg.com/profile_images/1742153271542968320/xdbgJg7c_400x400.jpg
-        url: https://twitter.com/unicorn_dobs
+        logo: https://unidob.xyz/loog.png
+        url: https://unidob.xyz/
         description: 第一个数码物
       - title: Nervape
         logo: https://pbs.twimg.com/profile_images/1772264187097415680/NjKHY-9V_400x400.png
@@ -148,6 +148,15 @@ categories:
         url: https://linktr.ee/RGBCat
         description: 结合Meme与Defi的项目，用Meme概念建立社区
        # tags: Meme
+  
+  - category: 底层协议
+    icon: linecons-star
+    links:
+      - title: UTXO Stack
+        logo: https://www.gotham.meme/_next/image?url=%2Fimg%2Flogo.png&w=96&q=75
+        url: https://cell.studio/
+        description: 基于比特币和RGB++协议的UTXO链发行协议，类似Op Stack
+        #tags: Meme,DEX
  
   
   - category: 工具
@@ -205,6 +214,11 @@ categories:
         logo: https://pbs.twimg.com/profile_images/1737953853474246656/fqpfLqKk_400x400.png
         url: https://www.binance.com/zh-CN/square/post/5620479464178
         description: 对数码物DOB概念的介绍，以及发行DOB的Spore协议的讲解
+      - title: 为什么CKB会被占用
+        logo: https://s2.coinmarketcap.com/static/img/coins/64x64/4948.png
+        url: https://twitter.com/Web3_Yuuu/status/1789588287184908326
+        description: 对Nervos资源机制的介绍，解释为什么持有资产或进行挂单交易等操作时会锁定一部分CKB
+
 
         
   
