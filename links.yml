@@ -153,7 +153,7 @@ categories:
     icon: linecons-star
     links:
       - title: UTXO Stack
-        logo: https://www.gotham.meme/_next/image?url=%2Fimg%2Flogo.png&w=96&q=75
+        logo: https://cell.studio/_astro/logo.6WZ5X8RG_vxSdx.svg
         url: https://cell.studio/
         description: 基于比特币和RGB++协议的UTXO链发行协议，类似Op Stack
         #tags: Meme,DEX
@@ -219,8 +219,6 @@ categories:
         url: https://twitter.com/Web3_Yuuu/status/1789588287184908326
         description: 对Nervos资源机制的介绍，解释为什么持有资产或进行挂单交易等操作时会锁定一部分CKB
 
-
-        
   
   - category: 了解RGB++精选KOL
     icon: linecons-star
