@@ -46,6 +46,10 @@ categories:
     hide_menu: true
     icon: linecons-star
     links:
+      - title: Unicorn开盒
+        logo: https://unidob.xyz/loog.png
+        url: https://unidob.xyz/
+        description: Unicorn持有者可开启盲盒，解锁DNA元素
       - title: 在主网交易神经猿
         logo: https://pbs.twimg.com/profile_images/1785608527480049664/_79WVSG4.jpg
         url: https://app.dobby.market/cluster/1
@@ -113,6 +117,10 @@ categories:
         logo: https://pbs.twimg.com/profile_images/1772264187097415680/NjKHY-9V_400x400.png
         url: https://www.nervape.com/nervape
         description: 在比特币主网发行的跨L1/L2可组合性DOB，源于Nervos生态资深IP
+      - title: Reem
+        logo: https://pbs.twimg.com/profile_images/1790347208224800769/p_j_fn-R_400x400.jpg
+        url: https://x.com/ReemDobs
+        description: 基于Unicorn DNA元素集扩展的DOBs Collection
      # - title: 等你来加➕
        # logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
        # url: https://github.com/geneasy/nav/issues
