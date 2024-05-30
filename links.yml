@@ -50,10 +50,10 @@ categories:
         logo: https://unidob.xyz/loog.png
         url: https://unidob.xyz/
         description: Unicorn持有者可开启盲盒，解锁DNA元素
-      - title: 在主网交易神经猿
+      - title: 神经猿空投组件
         logo: https://pbs.twimg.com/profile_images/1785608527480049664/_79WVSG4.jpg
-        url: https://app.dobby.market/cluster/1
-        description: 比特币主网的第一个DOB交易市场，已开启神经猿交易
+        url: https://www.nervape.com/wallet
+        description: 为持有的神经猿绑定或生成CKB地址，并在Nervos上接收组件空投
   
   - category: DEX
     icon: linecons-star
@@ -165,10 +165,14 @@ categories:
     icon: linecons-star
     links:
       - title: UTXO Stack
-        logo: https://cell.studio/_astro/logo.6WZ5X8RG_vxSdx.svg
-        url: https://cell.studio/
+        logo: https://pbs.twimg.com/profile_images/1795778967582146560/GRm2L6ZI_400x400.jpg
+        url: https://x.com/utxostack
         description: 基于比特币和RGB++协议的UTXO链发行协议，类似Op Stack
         #tags: Meme,DEX
+      - title: LeapX
+        logo: https://avatars.githubusercontent.com/u/137025416?v=4
+        url: https://openstamp.io/leapx
+        description: 支持将比特币主网资产（如BRC-20、Runes等）转换成RGB++资产的协议
  
   
   - category: 工具
