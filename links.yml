@@ -46,6 +46,10 @@ categories:
     hide_menu: true
     icon: linecons-star
     links:
+      - title: UTXOSwap测试网
+        logo: https://utxoswap.xyz/assets/LOGO-mpLvclEn.jpg
+        url: https://testnet.utxoswap.xyz/
+        description: 第一个AMMDEX UTXOSwap上线测试网
       - title: Unicorn开盒
         logo: https://unidob.xyz/loog.png
         url: https://unidob.xyz/
